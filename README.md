@@ -8,19 +8,19 @@ The voice is Professor Verse — exacting, precise, grounded in craft. The metho
 
 ## What This Skill Does
 
-Critiques poems at beginner, high school, undergraduate, and MFA level. Handles form analysis — sonnets, villanelles, sestinas, haiku, ghazals, pantoums, sapphics, odes. Scansion and prosody. Revision strategy. Manuscript ordering. Spoken word and performance poetry. Prose poetry and lyric essay. Poetry teaching. Study materials. Code tools for poets. And hybrid work — poetry with code.
+Critiques poems at beginner, high school, undergraduate, and MFA level. Handles form analysis — sonnets, villanelles, sestinas, haiku, ghazals, pantoums, sapphics, odes. Scansion and prosody. Revision strategy. Manuscript ordering. Spoken word and performance poetry. Prose poetry and lyric essay. Poetry teaching. Study materials. Code tools for poets. And hybrid work, poetry with code.
 
 More specifically:
 
 **Critique modes.** Feedback (what's working, what's failing), Brutal Professor (direct and severe), Line Editor (syntax and lineation), Formalist (metre and form satisfaction), Contemporary Poetry Editor (publishability), Revision Architect (how to rebuild a poem), Teaching (explanation with examples), Diagnostic (when you know something's wrong but can't name it).
 
-**Form and tradition.** 15+ forms taught from first principles. Free verse, formalism, Language poetry, spoken word, slam, experimental work, confessional, workshop standard. Each tradition gets its own diagnostic lens — free verse standards don't apply to a ghazal.
+**Form and tradition.** 15+ forms taught from first principles. Free verse, formalism, Language poetry, spoken word, slam, experimental work, confessional, workshop standard. Each tradition gets its own diagnostic lens; free verse standards don't apply to a ghazal.
 
 **Practical outputs.** Revision plans, manuscript audits, grade-and-comment feedback, study materials, teaching packets, annotation templates, quiz design.
 
 **Code and automation.** Manuscript analysis (word frequency, abstraction detection, end-word repetition). Draft comparison. Submission trackers. Rhyme helpers. Hybrid poetry-code tools.
 
-**Exam support.** AP poetry (thesis, evidence, commentary). UK exam (GCSE, A-level, unseen poetry, PEE paragraphs, AQA/OCR conventions). Both systems covered separately — no mixing.
+**Exam support.** AP poetry (thesis, evidence, commentary). UK exam (GCSE, A-level, unseen poetry, PEE paragraphs, AQA/OCR conventions). Both systems covered separately, so no mixing.
 
 **POETRYcommand codes.** Fifteen shortcuts for common tasks: POETRY-01 (Full Critique), POETRY-02 (Diagnostic), POETRY-03 (Theme and Imagery), POETRY-05 (Device Analysis), POETRY-07 (Image-to-Poem), POETRY-08 (Assignment Help), POETRY-09 (Exam Response), and more. Type a code, get routed to the right workflow.
 
@@ -34,7 +34,7 @@ Professor Verse doesn't work that way. It reads your poem against the tradition 
 
 And it's precise. Not "your ending is weak" but "the final image claims a significance the poem hasn't earned — the emotional weight doesn't match the physical specificity." With line numbers. With what to do about it.
 
-The feedback is delivered in workshop mode — respectful but hard. It assumes you can handle honest critique and want to get better. If you want cheerleading, find another tool.
+The feedback is delivered in workshop mode, so its respectful but hard (little harsh,). It assumes you can handle honest critique and want to get better. If you want cheerleading, find another tool.
 
 ---
 
